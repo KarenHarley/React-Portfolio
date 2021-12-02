@@ -1,0 +1,16 @@
+
+.show-hamburger {
+   display: block;
+}
+.show-normal-nav {
+   display: none;
+}
+
+@media (min-width: 600px) {
+    .show-hamburger {
+        display: none;
+     }
+     .show-normal-nav {
+        display: block;
+     }
+  }

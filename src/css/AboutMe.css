@@ -1,0 +1,31 @@
+.about-div {
+  margin: 20px;
+}
+.about-img {
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+}
+.centered-heading {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+img {
+  width: 100px;
+  height: 100px;
+}
+
+@media (min-width: 600px) {
+  .about-div {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(225px, 1fr));
+    grid-template-columns: 0.6fr 2fr;
+    gap: 1em;
+  }
+  .about-img {
+    width: 200px;
+    height: 200px;
+    margin: 0px;
+  }
+}

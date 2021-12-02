@@ -4,7 +4,7 @@ import "../../css/Contact.css";
 
 const styles = {
   card: {
-    margin: "150px",
+   // margin: "150px",
   },
   header: {
     display: "flex",
@@ -21,7 +21,7 @@ const styles = {
     padding: "5px",
     margin: "4px 0",
     boxSizing: "border-box",
-    backgroundColor: "red",
+    backgroundColor: "purple",
     border: "none",
     fontSize: "20px",
     borderRadius: "5px",
@@ -68,11 +68,11 @@ export default function Contact() {
   };
 
   return (
-    <div style={styles.card}>
-      <h1 style={styles.header}>Contact Page</h1>
+    <div className="contact-div">
+      <h2 style={styles.header}>Contact Page</h2>
 
       <form id="contact-form">
-        <div className="card">
+        <div className="cardSection">
           <div className="input-contact">
             <label for="NameInput">Full Name</label>
             <input

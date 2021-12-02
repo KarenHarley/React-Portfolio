@@ -1,9 +1,10 @@
+import "../../css/Resume.css";
 export default function Resume() {
   return (
-    <div>
-      <h1>Resume Page</h1>
+    <div className="resume-div">
+      <h2 className="centered-heading">Resume Page</h2>
       <p>
-        Download my<a href="#"> Resume</a>
+        Download my<a href="https://drive.google.com/drive/folders/1yqEBjbJGYUqEdjEdNl1kRHevuT2MzVO8"> Resume</a>
       </p>
       <h1>My front-end Skills</h1>
 

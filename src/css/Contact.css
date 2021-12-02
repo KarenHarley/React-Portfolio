@@ -1,6 +1,16 @@
-#contact-form input[type=text],#contact-form input[type=email] {
-    width: 100%;
-    padding: 12px 20px;
-    margin: 8px 0;
-    box-sizing: border-box;
+#contact-form input[type="text"],
+#contact-form input[type="email"] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+.contact-div {
+  margin: 15px;
+}
+
+@media (min-width: 600px) {
+  .contact-div {
+    margin: 150px;
   }
+}
