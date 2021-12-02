@@ -3,7 +3,7 @@ export default function Resume() {
     <div>
       <h1>Resume Page</h1>
       <p>
-        Download my<a>Resume</a>
+        Download my<a href="#"> Resume</a>
       </p>
       <h1>My front-end Skills</h1>
 

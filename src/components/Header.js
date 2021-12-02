@@ -7,6 +7,7 @@ import About from "./pages/About";
 import Resume from "./pages/Resume";
 import Contact from "./pages/Contact";
 
+
 export default function Header() {
   const [currentPage, setCurrentPage] = useState("Home");
 
