@@ -5,7 +5,7 @@ import Nutricipy from "./projects/Nutricipy";
 import "../css/Projects.css";
 export default function Project() {
     return (
-      <div>
+      <div className="wrapper">
         <WeatherDashboard/>
         <TechBlog/>
         <SupraLimp/>
