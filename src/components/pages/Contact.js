@@ -21,10 +21,11 @@ const styles = {
     padding: "5px",
     margin: "4px 0",
     boxSizing: "border-box",
-    backgroundColor: "purple",
+    backgroundColor: "#8600b3",
     border: "none",
     fontSize: "20px",
     borderRadius: "5px",
+    color: "white",
   },
   btnDiv: {
     display: "flex",

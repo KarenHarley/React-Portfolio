@@ -12,16 +12,17 @@ import {
 export default function HamburgerNav({ currentPage, handlePageChange }) {
   return (
     <>
-      <Navbar bg="light" expand={false}>
+      <Navbar  style={{backgroundColor: "#8600b3"}} expand={false}>
         <Container fluid>
-          <Navbar.Brand>Karen Villagomez</Navbar.Brand>
+          <Navbar.Brand style={{color: "white"}} >Karen Villagomez</Navbar.Brand>
           <Navbar.Toggle aria-controls="offcanvasNavbar" />
           <Navbar.Offcanvas
+          s
             id="offcanvasNavbar"
             aria-labelledby="offcanvasNavbarLabel"
             placement="end"
           >
-            <Offcanvas.Header closeButton>
+            <Offcanvas.Header closeButton >
               <Offcanvas.Title id="offcanvasNavbarLabel">
                 Karen Villagomez
               </Offcanvas.Title>

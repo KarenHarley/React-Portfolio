@@ -5,7 +5,9 @@
   position: relative;
   padding: 20px;
 }
-
+.projects-header-div p{
+  font-size: 30px;
+}
 .image {
   height: 200px;
   width: 300px;
@@ -34,13 +36,15 @@
 .details:hover {
   opacity: 1;
   background: rgba(53, 51, 51, 0.7); /*9*/
+  /*  background: rgba(192, 119, 216, 0.7); */
 }
 
 .details a {
   text-decoration: none;
   color: white;
-  background-color: rgb(40, 40, 40);
+  background-color: #8600b3;
   padding: 5px;
+  margin: 5px;
   border-radius: 5px;
   border: white solid 2px;
 

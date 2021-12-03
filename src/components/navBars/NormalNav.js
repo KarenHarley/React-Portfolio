@@ -3,7 +3,7 @@ import { Navbar, Nav, Container } from "react-bootstrap";
 export default function NormalNav({ currentPage, handlePageChange }) {
   return (
     <>
-      <Navbar bg="dark" variant="dark">
+      <Navbar style={{backgroundColor: " #8600b3"}} variant="dark">
         <Container>
           <Navbar.Brand >Karen Villagomez</Navbar.Brand>
           <Nav className="me-auto">
