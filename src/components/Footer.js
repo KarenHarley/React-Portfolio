@@ -17,13 +17,13 @@ export default function Footer() {
   return (
     <div style={styles.div}>
       <a style={styles.icons} href="https://github.com/KarenHarley" target="_blank">
-        <i class="bx bxl-github"></i>
+        <i className="bx bxl-github"></i>
       </a>
       <a style={styles.icons} href="https://www.linkedin.com/in/karen-villagomez/" target="_blank">
-        <i class="bx bxl-linkedin-square"></i>
+        <i className="bx bxl-linkedin-square"></i>
       </a>
       <a style={styles.icons} href="https://stackoverflow.com/users/16088954/karen88" target="_blank">
-        <i class="bx bxl-stack-overflow"></i>
+        <i className="bx bxl-stack-overflow"></i>
       </a>
     </div>
   );

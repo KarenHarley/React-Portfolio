@@ -1,14 +1,14 @@
-import pic from "../../pics/SupraLimp.png";
+import pic from "../../pics/DayPlanner.png";
 
-export default function SupraLimp() {
+export default function DayPlanner() {
   return (
     <div className="imgDiv ">
-      <img src={pic} alt="SupraLimp" className="image" />
+      <img src={pic} alt="Nutricipy" className="image" />
       <div className="details">
-        <h5>Project title: SupraLimp</h5>
+        <h5>Project title: Day Planner</h5>
         <br />
         <a
-          href="https://afternoon-plains-57708.herokuapp.com/"
+          href="https://karenharley.github.io/Day-Planner/"
           target="_blank"
           className="btn"
         >
@@ -16,7 +16,7 @@ export default function SupraLimp() {
         </a>
 
         <a
-          href="https://github.com/CristobalHdz/Project_2"
+          href="https://github.com/KarenHarley/Day-Planner"
           target="_blank"
           className="btn"
         >

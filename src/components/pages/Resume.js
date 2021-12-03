@@ -1,8 +1,11 @@
 import "../../css/Resume.css";
 export default function Resume() {
   return (
+    <>
+    <h2 className="centered-heading">Resume Page</h2>
     <div className="resume-div">
-      <h2 className="centered-heading">Resume Page</h2>
+  
+
       <p>
         Download my<a href="https://drive.google.com/drive/folders/1yqEBjbJGYUqEdjEdNl1kRHevuT2MzVO8"> Resume</a>
       </p>
@@ -28,5 +31,6 @@ export default function Resume() {
         <li>GraphQL</li>
       </ul>
     </div>
+    </>
   );
 }

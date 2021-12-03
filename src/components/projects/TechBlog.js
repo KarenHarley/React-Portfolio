@@ -2,15 +2,15 @@ import pic from "../../pics/techBlog.png";
 
 export default function TechBlog() {
   return (
-    <div class="imgDiv ">
+    <div className="imgDiv ">
       <img src={pic} alt="Tech blog" className="image" />
-      <div class="details">
+      <div className="details">
         <h5>Project title: Tech Blog</h5>
         <br />
         <a
           href="https://mighty-reaches-19141.herokuapp.com/"
           target="_blank"
-          class="btn"
+          className="btn"
         >
           Website
         </a>
@@ -18,7 +18,7 @@ export default function TechBlog() {
         <a
           href="https://github.com/KarenHarley/Tech-Blog"
           target="_blank"
-          class="btn"
+          className="btn"
         >
           GitHub
         </a>

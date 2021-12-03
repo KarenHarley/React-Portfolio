@@ -1,14 +1,14 @@
-import pic from "../../pics/Nutricipy.png";
+import pic from "../../pics/CodingChallenge.png";
 
-export default function Nutricipy() {
+export default function CodingChallenge() {
   return (
     <div className="imgDiv ">
       <img src={pic} alt="Nutricipy" className="image" />
       <div className="details">
-        <h5>Project title: Nutricipy</h5>
+        <h5>Project title: Coding Quiz Challenge</h5>
         <br />
         <a
-          href="https://cristobalhdz.github.io/Nutricipy/"
+          href="https://karenharley.github.io/Coding-Quiz-Challenge/"
           target="_blank"
           className="btn"
         >
@@ -16,7 +16,7 @@ export default function Nutricipy() {
         </a>
 
         <a
-          href="https://github.com/CristobalHdz/Nutricipy"
+          href="https://github.com/KarenHarley/Coding-Quiz-Challenge"
           target="_blank"
           className="btn"
         >

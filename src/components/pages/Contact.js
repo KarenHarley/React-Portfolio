@@ -9,6 +9,7 @@ const styles = {
   header: {
     display: "flex",
     justifyContent: "center",
+    paddingTop: "90px"
   },
   messageInput: {
     width: "100%",
@@ -75,7 +76,7 @@ export default function Contact() {
       <form id="contact-form">
         <div className="cardSection">
           <div className="input-contact">
-            <label for="NameInput">Full Name</label>
+            <label htmlFor="NameInput">Full Name</label>
             <input
               type="text"
               id="NameInput"
@@ -90,7 +91,7 @@ export default function Contact() {
           </div>
 
           <div className="input-contact">
-            <label for="emailInput">Email</label>
+            <label htmlFor="emailInput">Email</label>
             <input
               type="email"
               id="emailInput"
@@ -105,7 +106,7 @@ export default function Contact() {
           </div>
 
           <div>
-            <label for="messageInput">Message</label>
+            <label htmlFor="messageInput">Message</label>
             <textarea
               rows="5"
               cols="80"

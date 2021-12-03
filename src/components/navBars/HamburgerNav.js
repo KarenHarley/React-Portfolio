@@ -9,10 +9,12 @@ import {
   Button,
 } from "react-bootstrap";
 
+import "../../css/AboutMe.css";
+
 export default function HamburgerNav({ currentPage, handlePageChange }) {
   return (
     <>
-      <Navbar  style={{backgroundColor: "#8600b3"}} expand={false}>
+      <Navbar  style={{backgroundColor: "#8600b3",padding: "30px"}} className = "navbar" expand={false}>
         <Container fluid>
           <Navbar.Brand style={{color: "white"}} >Karen Villagomez</Navbar.Brand>
           <Navbar.Toggle aria-controls="offcanvasNavbar" />
