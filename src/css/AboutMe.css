@@ -22,7 +22,7 @@
   padding: 25px
 }
 
-@media (min-width: 600px) {
+@media (min-width: 800px) {
   .about-div {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(225px, 1fr));
