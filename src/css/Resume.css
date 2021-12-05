@@ -1,0 +1,9 @@
+.resume-div{
+    text-align: center; 
+    box-shadow: 0 5px 35px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+    margin: 20px;
+}
+.resume-div ul {
+    list-style-type: none; 
+}
