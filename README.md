@@ -39,6 +39,10 @@ When you hover over a project picture you will have access to the:
 1. Bootstrap
 2. React
 3. CSS
+4. Apollo-server-express
+5. mongoose
+6. graphQL
+7. apollo/client
 
 
 #### Links:
