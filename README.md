@@ -1,6 +1,6 @@
 ## Portfolio
 
-This is Karen Villagomez's website portfolio. Where you can find:
+This is Karen Villagomez's React Website portfolio. Where you can find:
 
 
 
@@ -51,5 +51,5 @@ When you hover over a project picture you will have access to the:
 https://github.com/KarenHarley/React-Portfolio
 
 Website:
-https://karenharley.github.io/React-Portfolio/#resume
+https://karenharley.github.io/React-Portfolio
 
