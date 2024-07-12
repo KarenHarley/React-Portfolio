@@ -49,7 +49,7 @@ When you hover over a project picture you will have access to the:
 
 #### Links:
 
-#Github:
+Github:
 https://github.com/KarenHarley/React-Portfolio
 
 Website:
