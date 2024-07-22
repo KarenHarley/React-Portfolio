@@ -2,7 +2,7 @@
 
 ## Portfolio
 
-This is Karen Villagomez's React Website portfolio. Where you can find:
+This is A Website portfolio created for as a project to improve my (at the time) beginner React knowledge. Where you can find:
 
 
 
