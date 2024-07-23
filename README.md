@@ -2,7 +2,7 @@
 
 ## Portfolio
 
-This is A Website portfolio created for as a project to improve my (at the time) beginner React knowledge. Where you can find:
+This is a website portfolio created for as a project to improve my (at the time) beginner React knowledge. Where you can find:
 
 
 
@@ -19,13 +19,13 @@ When you hover over a project picture you will have access to the:
 
 ---
 
-- An About-Me section.
+- An About Me section.
 
 ![Picture of About me section](pics/aboutMe.png)
 
 ---
 
-- A Contact-Me section.
+- A Contact Me section.
 
 ![Picture of contact me section](pics/contact.png)
 
