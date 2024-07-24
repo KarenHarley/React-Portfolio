@@ -14,18 +14,18 @@ This is a website portfolio created for as a project to improve my (at the time)
 
 When you hover over a project picture you will have access to the:
 1. Project Name.
-2. Github repo link.
+2. Github repository link.
 3. Website link.
 
 ---
 
-- An About Me section.
+### An about me section.
 
 ![Picture of About me section](pics/aboutMe.png)
 
 ---
 
-- A Contact Me section.
+### A contact me section.
 
 ![Picture of contact me section](pics/contact.png)
 
