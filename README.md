@@ -19,19 +19,19 @@ When you hover over a project picture you will have access to the:
 
 ---
 
-### An about me section.
+### About me section.
 
 ![Picture of About me section](pics/aboutMe.png)
 
 ---
 
-### A contact me section.
+### Contact me section.
 
 ![Picture of contact me section](pics/contact.png)
 
 ---
 
-### A resume Section
+### Resume Section
 
 ![Picture of website intro](pics/resume.png)
 
