@@ -2,9 +2,16 @@
 
 ## Portfolio
 
-This is a website portfolio created for as a project to improve my (at the time) beginner React knowledge. Where you can find:
+This is a website portfolio created for as a project to improve my (at the time) beginner React knowledge.
 
+## Table of Contents
 
+- [Features](#features)
+- [Tecnologies](#tecnologies)
+- [Website Picture](#weather-dashboard-page)
+- [Contact Info](#contact-info)
+- [License](#license)
+- [Llinks](#links)
 
 - My Work and past projects.
 
