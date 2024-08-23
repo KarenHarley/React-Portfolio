@@ -12,7 +12,8 @@ This is a website portfolio created for as a project to improve my (at the time)
 - [Contact Info](#contact-info)
 - [License](#license)
 - [Llinks](#links)
-
+  
+<br/>
 - My Work and past projects.
 
 ![Picture work section](pics/portfolio.png)
