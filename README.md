@@ -14,11 +14,9 @@ This is a website portfolio created for as a project to improve my (at the time)
 - [Llinks](#links)
   
 <br/>
-- My Work and past projects.
-
-![Picture work section](pics/portfolio.png)
 
 ---
+## Features
 
 When you hover over a project picture you will have access to the:
 1. Project Name.
@@ -27,6 +25,9 @@ When you hover over a project picture you will have access to the:
 
 ---
 
+- My Work and past projects.
+
+![Picture work section](pics/portfolio.png)
 ### About me section.
 
 ![Picture of About me section](pics/aboutMe.png)
