@@ -55,6 +55,9 @@ When you hover over a project picture you will have access to the:
 6. graphQL
 7. apollo/client
 
+## License
+
+The license used for this project: MIT
 
 #### Links:
 
