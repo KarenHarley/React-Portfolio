@@ -7,8 +7,8 @@ This is a website portfolio created for as a project to improve my (at the time)
 ## Table of Contents
 
 - [Features](#features)
+- [Website Pictures](#weather-dashboard-page)
 - [Tecnologies](#tecnologies)
-- [Website Picture](#weather-dashboard-page)
 - [Contact Info](#contact-info)
 - [License](#license)
 - [Llinks](#links)
