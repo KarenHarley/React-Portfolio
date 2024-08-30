@@ -25,7 +25,7 @@ When you hover over a project picture you will have access to the:
 
 ---
 
-- My Work and past projects.
+### My Work and past projects.
 
 ![Picture work section](pics/portfolio.png)
 ### About me section.
