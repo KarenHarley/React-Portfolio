@@ -7,7 +7,7 @@ This is a website portfolio created for as a project to improve my (at the time)
 ## Table of Contents
 
 - [Features](#features)
-- [Website Pictures](#weather-dashboard-page)
+- [Website Pictures](#pictures)
 - [Tecnologies](#tecnologies)
 - [Contact Info](#contact-info)
 - [License](#license)
@@ -24,6 +24,8 @@ When you hover over a project picture you will have access to the:
 3. Website link.
 
 ---
+
+## Pictures
 
 ### My Work and past projects.
 
