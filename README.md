@@ -15,15 +15,12 @@ This is a website portfolio created for as a project to improve my (at the time)
   
 <br/>
 
----
 ## Features
 
 When you hover over a project picture you will have access to the:
 1. Project Name.
 2. Github repository link.
 3. Website link.
-
----
 
 ## Pictures
 
@@ -34,19 +31,14 @@ When you hover over a project picture you will have access to the:
 
 ![Picture of About me section](pics/aboutMe.png)
 
----
-
 ### Contact me section.
 
 ![Picture of contact me section](pics/contact.png)
-
----
 
 ### Resume Section
 
 ![Picture of website intro](pics/resume.png)
 
----
 ## Tecnologies
 
 1. Bootstrap
