@@ -57,7 +57,7 @@ KarenHarley88@gmail.com
 
 The license used for this project: MIT
 
-#### Links:
+## Links:
 
 Github:
 https://github.com/KarenHarley/React-Portfolio
