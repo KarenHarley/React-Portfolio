@@ -1,6 +1,6 @@
 [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/DAVFoundation/captain-n3m0/blob/master/LICENSE)
 
-## Portfolio
+## React Portfolio
 
 This is a website portfolio created for as a project to improve my (at the time) beginner React knowledge.
 
