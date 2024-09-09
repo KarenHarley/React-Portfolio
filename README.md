@@ -24,18 +24,18 @@ When you hover over a project picture you will have access to the:
 
 ## Pictures
 
-### My Work and past projects.
+#### My Work and past projects.
 
 ![Picture work section](pics/portfolio.png)
-### About me section.
+#### About me section.
 
 ![Picture of About me section](pics/aboutMe.png)
 
-### Contact me section.
+#### Contact me section.
 
 ![Picture of contact me section](pics/contact.png)
 
-### Resume Section
+#### Resume Section
 
 ![Picture of website intro](pics/resume.png)
 
