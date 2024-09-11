@@ -7,7 +7,7 @@ This is a website portfolio created for as a project to improve my (at the time)
 ## Table of Contents
 
 - [Features](#features)
-- [Website Pictures](#pictures)
+- [Website Pictures](#website-pictures)
 - [Tecnologies](#tecnologies)
 - [Contact Info](#contact-info)
 - [License](#license)
@@ -22,7 +22,7 @@ When you hover over a project picture you will have access to the:
 2. Github repository link.
 3. Website link.
 
-## Pictures
+## Website Pictures
 
 #### My Work and past projects.
 
