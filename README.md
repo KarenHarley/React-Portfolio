@@ -2,7 +2,7 @@
 
 ## React Portfolio
 
-This is a website portfolio created for as a project to improve my (at the time) beginner React knowledge. Its objective is to use a database with to display informaction with react components. 
+This portfolio website was created as part of a project to strengthen my foundational skills in React. At the time, I was still a beginner, and the goal was to implement a database integration that would dynamically display information using React components. This project provided valuable hands-on experience in building interactive web applications and deepened my understanding of React’s core concepts.
 
 ## Table of Contents
 
