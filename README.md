@@ -60,8 +60,8 @@ The license used for this project: MIT
 ## Links:
 
 Github:
-https://github.com/KarenHarley/React-Portfolio
+`https://github.com/KarenHarley/React-Portfolio`
 
 Website:
-https://karenharley.github.io/React-Portfolio
+`https://karenharley.github.io/React-Portfolio`
 
